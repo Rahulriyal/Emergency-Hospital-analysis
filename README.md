@@ -28,12 +28,12 @@ Healthcare Policy Makers (analyze trends and improve regulations)
 
 ### Data Sources:
 
-Internal hospital databases (EHR, CRM, SQL systems)
+Internal hospital databases (EHR)
 Patient feedback surveys (for satisfaction scores)
 
 ### Data Format:
 
-Structured: Excel, CSV, SQL databases
+Structured: Excel, CSV databases
 
 ### Data Volume & Frequency:
 
